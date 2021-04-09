@@ -1,0 +1,13 @@
+---
+name: CoronaVirus
+author: HIghestDreams
+version: 1.0.0
+main: HighestDreams\CoronaVirus\Main
+api: 3.0.0
+depend:
+- EconomyAPI
+commands:
+  pfizer:
+    description: Pfizer for those people need it
+    default: true
+...
